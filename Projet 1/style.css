@@ -1,6 +1,7 @@
 html {
   scroll-behavior: smooth;
 }
+
 h2,
 h3,
 h4,
@@ -23,7 +24,7 @@ footer {
 }
 
 header {
-  background: url(/media/main.jpg) no-repeat 50% 50%;
+  background: url(media/main.jpg) no-repeat 50% 50%;
   background-size: cover;
   height: 100vh;
   border-radius: 0px 0px 20px 20px;
@@ -42,6 +43,7 @@ h1 {
     opacity: 0;
     transform: translateY(350px);
   }
+
   100% {
     opacity: 1;
     transform: translateY(0px);
@@ -135,30 +137,39 @@ h1 {
   0% {
     transform: translate(0px, 0px);
   }
+
   9% {
     transform: translate(-38px, -10px);
   }
+
   27% {
     transform: translate(49px, 11px);
   }
+
   34% {
     transform: translate(-51px, -3px);
   }
+
   48% {
     transform: translate(33px, -24px);
   }
+
   56% {
     transform: translate(-66px, 7px);
   }
+
   70% {
     transform: translate(44px, 18px);
   }
+
   80% {
     transform: translate(-46px, -25px);
   }
+
   100% {
     transform: translate(0px, 0px);
   }
+
   100% {
     transform: translate(0px, 0px);
   }
@@ -168,30 +179,39 @@ h1 {
   0% {
     -moz-transform: translate(0px, 0px);
   }
+
   9% {
     -moz-transform: translate(-38px, -10px);
   }
+
   27% {
     -moz-transform: translate(49px, 11px);
   }
+
   34% {
     -moz-transform: translate(-51px, -3px);
   }
+
   48% {
     -moz-transform: translate(33px, -24px);
   }
+
   56% {
     -moz-transform: translate(-66px, 7px);
   }
+
   70% {
     -moz-transform: translate(44px, 18px);
   }
+
   80% {
     -moz-transform: translate(-46px, -25px);
   }
+
   100% {
     -moz-transform: translate(0px, 0px);
   }
+
   100% {
     -moz-transform: translate(0px, 0px);
   }
@@ -201,30 +221,39 @@ h1 {
   0% {
     -webkit-transform: translate(0px, 0px);
   }
+
   9% {
     -webkit-transform: translate(-38px, -10px);
   }
+
   27% {
     -webkit-transform: translate(49px, 11px);
   }
+
   34% {
     -webkit-transform: translate(-51px, -3px);
   }
+
   48% {
     -webkit-transform: translate(33px, -24px);
   }
+
   56% {
     -webkit-transform: translate(-66px, 7px);
   }
+
   70% {
     -webkit-transform: translate(44px, 18px);
   }
+
   80% {
     -webkit-transform: translate(-46px, -25px);
   }
+
   100% {
     -webkit-transform: translate(0px, 0px);
   }
+
   100% {
     -webkit-transform: translate(0px, 0px);
   }
@@ -234,30 +263,39 @@ h1 {
   0% {
     -o-transform: translate(0px, 0px);
   }
+
   9% {
     -o-transform: translate(-38px, -10px);
   }
+
   27% {
     -o-transform: translate(49px, 11px);
   }
+
   34% {
     -o-transform: translate(-51px, -3px);
   }
+
   48% {
     -o-transform: translate(33px, -24px);
   }
+
   56% {
     -o-transform: translate(-66px, 7px);
   }
+
   70% {
     -o-transform: translate(44px, 18px);
   }
+
   80% {
     -o-transform: translate(-46px, -25px);
   }
+
   100% {
     -o-transform: translate(0px, 0px);
   }
+
   100% {
     -o-transform: translate(0px, 0px);
   }
@@ -267,30 +305,39 @@ h1 {
   0% {
     -ms-transform: translate(0px, 0px);
   }
+
   9% {
     -ms-transform: translate(-38px, -10px);
   }
+
   27% {
     -ms-transform: translate(49px, 11px);
   }
+
   34% {
     -ms-transform: translate(-51px, -3px);
   }
+
   48% {
     -ms-transform: translate(33px, -24px);
   }
+
   56% {
     -ms-transform: translate(-66px, 7px);
   }
+
   70% {
     -ms-transform: translate(44px, 18px);
   }
+
   80% {
     -ms-transform: translate(-46px, -25px);
   }
+
   100% {
     -ms-transform: translate(0px, 0px);
   }
+
   100% {
     -ms-transform: translate(0px, 0px);
   }
